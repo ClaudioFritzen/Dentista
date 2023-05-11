@@ -45,3 +45,14 @@ html{
     scroll-behavior: smooth;
     scroll-padding-top: 6.5rem;
 }
+
+.header{
+     padding: 2rem;
+     border-bottom: var(--border)
+
+}
+
+/* .header .row{
+    align-items: center;
+    justify-content: space-between;
+} */
